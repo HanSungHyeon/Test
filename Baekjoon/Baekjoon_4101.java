@@ -16,7 +16,6 @@ public class Baekjoon_4101 {
 				System.out.println("Yes");
 			else
 				System.out.println("No");
-			
 		}
 	}
 }

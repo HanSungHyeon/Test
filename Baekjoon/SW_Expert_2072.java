@@ -20,11 +20,8 @@ public class SW_Expert_2072 {
 	}
 
 	public static void sum(int a) {
-
-		if (a % 2 != 0) {
+		if (a % 2 != 0) 
 			num += a;
-
-		}
 	}
 
 }
